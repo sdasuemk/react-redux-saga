@@ -1,0 +1,21 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "iPhone",
+            "brand": "apple",
+            "color": "black",
+            "price":85000
+
+        },
+        {
+            "id": 2,
+            "name": "iPad",
+            "brand": "apple",
+            "color": "red",
+            "price":30000
+
+        }
+        
+    ]
+}
